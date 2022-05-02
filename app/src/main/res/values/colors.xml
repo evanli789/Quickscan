@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="gradientStartColor">#4286f4</color>
+
+    <color name="gradientStartColor200">#96caff</color>
+    <color name="gradientStartColor900">#3842ad</color>
+
+    <color name="blackHighEmphasis">#DE000000</color>
+
+    <color name="slightBlueTint">#FBFDFF</color>
+
+    <color name="transparentTextviewBackground">#CC000000</color>
+
+    <color name="triGreenColor">#47B647</color>
+    <color name="triRedColor">#b64747</color>
+
+    <color name="bumblebeeColor">#FF9900</color>
+
+    <color name="backgroundColor">#EEEEEE</color>
+
+    <color name="standardGreen">#008000</color>
+    <color name="standardRed">#FF0000</color>
+
+</resources>
