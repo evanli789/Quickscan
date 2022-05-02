@@ -10,3 +10,7 @@ https://www.youtube.com/watch?v=mjY7Ok9qQlQ
 How to get AWS Keys:
 
 https://imgur.com/a/6QYehuZ
+
+APK Download:
+
+https://www.dropbox.com/s/867xi1hcpd5gcu2/quickscan.apk?dl=0
